@@ -1,0 +1,27 @@
+{
+  "name": "qwe",
+  "version": "1.0.0",
+  "description": "Another CMS for NodeJS",
+  "main": "index.mjs",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/retalapp/qwe.git"
+  },
+  "keywords": [
+    "CMS",
+    "Admin",
+    "Dashboard"
+  ],
+  "author": "gsalgadotoledo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/retalapp/qwe/issues"
+  },
+  "homepage": "https://github.com/retalapp/qwe#readme"
+}
